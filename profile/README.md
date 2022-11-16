@@ -7,4 +7,4 @@ We are a community of contributors - developers, volunteers, researchers, and th
 Learn more about what we are doing at our official website [rahat.io](https://rahat.io) <br>For more technical information, visit our documentation website [docs.rahat.io](https://docs.rahat.io/docs/next/intro)
 
 ## Installation Guide
-For instructions on installing and running rahat, see [installation guide.] (https://docs.rahat.io/docs/installation_guide)
+For instructions on installing and running rahat, see [installation guide](https://docs.rahat.io/docs/installation_guide)
