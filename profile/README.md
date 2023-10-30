@@ -1,4 +1,4 @@
-![Rahat Cover Photo](https://assets.rumsan.com/esatya/rahat-cover1.png)
+![Rahat Cover Photo](https://assets.rumsan.net/esatya/rahat-cover1.png)
 Rahat platform is an open-source, blockchain-based, digital aid distribution management system developed by [Rumsan](https://rumsan.com/), a blockchain company focused on social impact.
 ## Participating in Community 
 We are a community of contributors - developers, volunteers, researchers, and the humanitarian sector including employees of Rumsan Associates. We create an environment where our community can effectively explore, create innovative and open aid distribution technology services that are inclusive, accountable, and accessible for everyone. 
