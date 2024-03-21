@@ -1,3 +1,14 @@
+# WARNING!!
+
+We have moved our repo to www.github.com/rahataid
+
+⚠️ This documentation is for reference only ⚠️
+
+⚠️ This site and docs are not actively updated. ⚠️
+
+⚠️ Please use our new repo : ⚠️
+🫱 www.github.com/rahataid 🫲
+
 ![Rahat Cover Photo](https://assets.rumsan.net/esatya/rahat-cover1.png)
 Rahat platform is an open-source, blockchain-based, digital aid distribution management system developed by [Rumsan](https://rumsan.com/), a blockchain company focused on social impact.
 ## Participating in Community 
